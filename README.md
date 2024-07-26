@@ -5,7 +5,7 @@ Projekt inżynierki wykorzystuje następujące technologie:
 Angular (front-end),
 Java Spring (back-end),
 PostgreSQL (PgAdmin 4)
-<br>
+<br><br>
 
 **Programowanie Obiektowe:** zawiera programy w języku C++ ilustrujące różne aspekty programowania obiektowego, w tym definiowanie i zarządzanie obiektami, dziedziczenie, polimorfizm oraz przeciążanie operatorów. Programy obejmują klasy do reprezentacji punktów i kół, pracowników i stażystów, różnych figur geometrycznych, ułamków z przeciążonymi operatorami, oraz produktów z dynamicznie alokowaną ceną.
 
