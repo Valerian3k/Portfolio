@@ -1,7 +1,7 @@
 # Portfolio
 **Projekt Inżynierski:** aplikacja internetowa poświęconej grom planszowym, która umożliwia użytkownikom rejestrację, logowanie oraz przeglądanie i interakcję z bazą gier planszowych. Platforma pozwala na dodawanie odsyłaczy do zakupów gier, umożliwia użytkownikom ocenianie i komentowanie gier, a także oferuje panel administracyjny dla moderatorów i administratorów do zarządzania zawartością. W folderze znajduje się prezentacja (plik pdf) która przedstawia wygląd i dokładne funkcje aplikacji.
 
-Projekt inżynierki wykorzystuje następujące technologie:
+Projekt inżynierki wykorzystuje następujące technologie: <br>
 Angular (front-end), <br>
 Java Spring (back-end),<br>
 PostgreSQL (PgAdmin 4)
