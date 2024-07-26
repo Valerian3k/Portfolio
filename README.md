@@ -6,7 +6,7 @@ Angular (front-end), <br>
 Java Spring (back-end),<br>
 PostgreSQL (PgAdmin 4)
 
-Link do całego projektu: https://github.com/uken-outstanding-engineers/board-games
+Link do repozytorium projektu: https://github.com/uken-outstanding-engineers/board-games
 <br><br>
 
 **Programowanie Obiektowe:** zawiera programy w języku C++ ilustrujące różne aspekty programowania obiektowego, w tym definiowanie i zarządzanie obiektami, dziedziczenie, polimorfizm oraz przeciążanie operatorów. Programy obejmują klasy do reprezentacji punktów i kół, pracowników i stażystów, różnych figur geometrycznych, ułamków z przeciążonymi operatorami, oraz produktów z dynamicznie alokowaną ceną.
