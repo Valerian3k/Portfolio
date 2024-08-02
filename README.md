@@ -11,20 +11,20 @@ Link do repozytorium projektu: [https://github.com/uken-outstanding-engineers/bo
 
 <br><br>
 
-##Programowanie Obiektowe
+## Programowanie Obiektowe
 Zawiera programy w języku C++ ilustrujące różne aspekty programowania obiektowego, w tym definiowanie i zarządzanie obiektami, dziedziczenie, polimorfizm oraz przeciążanie operatorów. Programy obejmują klasy do reprezentacji punktów i kół, pracowników i stażystów, różnych figur geometrycznych, ułamków z przeciążonymi operatorami, oraz produktów z dynamicznie alokowaną ceną.
 
-<br><br>
+<br>
 
 ## Python 
 Zawiera przykładowe projekty w języku Python, demonstrujące różne zastosowania programowania: Lotto - program losujący i porównujący liczby użytkownika z danymi z pliku, MorseCode - konwertujący tekst na kod Morse'a i odwrotnie na podstawie plików z zasadami kodowania i tekstami, oraz Quiz - interaktywny quiz, który odczytuje pytania z pliku i ocenia odpowiedzi użytkownika.
 
-<br><br>
+<br>
 
-##Sztuczna Inteligencja
+## Sztuczna Inteligencja
 Zawiera przykładowe rozwiązania z zakresu sztucznej inteligencji w języku Python, obejmujące różne techniki i algorytmy: Neuron Nieliniowy i Sieć Neuronowa do klasyfikacji danych, Nauka Neuronu Nieliniowego z algorytmem perceptronu do uczenia maszynowego, Sieć Hopfielda do rozwiązywania problemów optymalizacyjnych przy użyciu funkcji aktywacji, Propagacja Wsteczna do trenowania sieci neuronowej z jedną warstwą ukrytą, oraz Algorytm Genetyczny do optymalizacji funkcji za pomocą technik biologicznych takich jak krzyżowanie i mutacja.
 
-<br><br>
+<br>
 
 # Portfolio [EN]
 
@@ -43,12 +43,12 @@ Link to the project repository: [https://github.com/uken-outstanding-engineers/b
 ## Object-Oriented Programming
 Contains programs in C++ illustrating various aspects of object-oriented programming, including defining and managing objects, inheritance, polymorphism, and operator overloading. The programs include classes for representing points and circles, employees and interns, various geometric figures, fractions with overloaded operators, and products with dynamically allocated prices.
 
-<br><br>
+<br>
 
 ## Python
 Contains sample projects in Python, demonstrating various programming applications: Lotto - a program that draws and compares user numbers with data from a file; MorseCode - converts text to Morse code and vice versa based on coding rules and texts from files; and Quiz - an interactive quiz that reads questions from a file and evaluates the user's answers.
 
-<br><br>
+<br>
 
 ## Artificial Intelligence
 Contains sample solutions in the field of artificial intelligence in Python, covering various techniques and algorithms: Nonlinear Neuron and Neural Network for data classification, Learning of Nonlinear Neuron with a perceptron algorithm for machine learning, Hopfield Network for solving optimization problems using activation functions, Backpropagation for training a neural network with one hidden layer, and Genetic Algorithm for function optimization using biological techniques such as crossover and mutation.
